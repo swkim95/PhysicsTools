@@ -12,7 +12,7 @@ Originally imported to CMSSW from [cms-nanoAOD/nanoAOD-tools](https://github.com
 ## Instruction for Run2 UL NanoAOD skimming + running CRAB
 
 ### Simple recipe (Run on LXPLUS8)
-    cmerel CMSSW_13_3_0
+    cmsrel CMSSW_13_3_0
     cd CMSSW_13_3_0/src
     cmsenv
     git cms-init
