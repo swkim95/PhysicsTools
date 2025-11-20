@@ -30,6 +30,8 @@ keep HLT_PFMET*
 keep HLT_TkMu*
 keep HLT_TripleMu*
 keep HLT_TrkMu*
+keep HLT_Photon*
+keep HLT_DoublePhoton*
 # for 2017
 # IsoTkMu, L2DoubleMu not in 2017, 2018
 keep HLT_CaloMET*
